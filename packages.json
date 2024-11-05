@@ -1,9 +1,5 @@
 [
     {
-        "package": "ambiorix",
-        "url": "https://github.com/devOpifex/ambiorix"
-    },
-    {
         "package": "communicate",
         "url": "https://github.com/devOpifex/communicate"
     },
@@ -14,10 +10,6 @@
     {
         "package": "scilis",
         "url": "https://github.com/devOpifex/scilis"
-    },
-    {
-        "package": "ambiorix",
-        "url": "https://github.com/devOpifex"
     },
     {
         "package": "jader",
@@ -34,34 +26,6 @@
     {
         "package": "windy",
         "url": "https://github.com/devOpifex/windy"
-    },
-    {
-        "package": "artifex",
-        "url": "https://github.com/devOpifex/artifex"
-    },
-    {
-        "package": "ambiorix/surf",
-        "url": "https://github.com/devOpifex/surf"
-    },
-    {
-        "package": "signaculum",
-        "url": "https://github.com/devOpifex/signaculum"
-    },
-    {
-        "package": "eburones",
-        "url": "https://github.com/devOpifex/eburones"
-    },
-    {
-        "package": "alesia",
-        "url": "https://github.com/devOpifex/alesia"
-    },
-    {
-        "package": "druid",
-        "url": "https://github.com/devOpifex/druid"
-    },
-    {
-        "package": "agris",
-        "url": "https://github.com/devOpifex/agris"
     },
     {
         "package": "g2r",
